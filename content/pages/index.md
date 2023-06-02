@@ -5,4 +5,5 @@ title: "Home"
 
 # Hello, I'm Bima!
 
-I dream to be a frontend developer.
+Self-taught front-end web developer. 
+I found all my dreams after completing my first JavaScript project.
