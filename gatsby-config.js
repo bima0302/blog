@@ -1,28 +1,28 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `BimaSetyo.com`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Bima Setyo`,
+      summary: `Self-taught front-end web developer. I found all my dreams after completing my first JavaScript project.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `Bima Setyo website.`,
+    siteUrl: `https://bimasetyo.com`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `bzizmza`,
     },
     socialLinks: [
       {
         name: "github",
-        url: "https://github.com",
+        url: "https://github.com/bzizmza",
       },
       {
         name: "twitter",
-        url: "https://twitter.com",
+        url: "https://twitter.com/bzizmza",
       },
       {
-        name: "instagram",
-        url: "https://instagram.com",
+        name: "linkedin",
+        url: "https://linkedin.com/in/abimanyusrisetyo",
       },
     ],
   },
