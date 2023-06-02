@@ -2,17 +2,20 @@
 This page contains source code of the official Bima Setyo website.
 
 ## Development
-To run the the website locally, install Next.js, the required plugins and clone this repository:
+To run the the website locally, install the required plugins and clone this repository:
 ```
-# As Next.js is a react based framework, we are using Node environment. Now make sure you have Node.js and npm installed on your system.
+# 1. Clone the repository
+git clone https://github.com/bzizmza/website
+
+# 2. Navigate into repository
 cd website
-npm install next react react-dom
-```
-Prepare build with:
-```
-npm run build
-```
-Then serve the site locally with:
-```
-npm run start
+
+# 3. Install the dependencies
+yarn install
+
+# 4. Start the development server
+yarn start
+
+# 5. Start the build mode
+yarn  build
 ```
