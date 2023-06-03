@@ -2,7 +2,7 @@
 title: "How to Clone Your Private Repository From Github"
 date: 2023-06-01
 tags : ["tutorial"]
-social_image: '/media/1-github-repository.png'
+social_image: 'images/1-github-repository.png'
 ---
 
 ## Background
@@ -11,7 +11,7 @@ In this blog post, I will show you how to clone a private repository from GitHub
 
 If you want to clone a private repository from GitHub, you might encounter some challenges. Unlike public repositories, which are accessible to anyone, private repositories require authentication and permission to access. Let’s get started!
 
-![GitHub Repository](/media/1-github-repository.png)
+![GitHub Repository](images/1-github-repository.png)
 
 ## How to clone your private repository?
 
@@ -24,22 +24,22 @@ To clone a private repository from your account or organization, you need to gen
 
 This is how you generate a PAT on your Github account:
 1. Go to “Settings”.
-    ![Settings](/media/1-settings.png)
+    ![Settings](images/1-settings.png)
 
 2. Scroll down then go to “Developer settings”.
-    ![Developer Settings](/media/1-developer-settings.png)
+    ![Developer Settings](images/1-developer-settings.png)
 
 3. Press “Personal access tokens” then press “Generate new token”.
-    ![Generate New Token](/media/1-generate-new-token.png)
+    ![Generate New Token](images/1-generate-new-token.png)
 
 4. Fill “Note” then check “repo”. "repo" is not checked, you cannot clone a private repository.
-    ![Repo](/media/1-repo.png)
+    ![Repo](images/1-repo.png)
 
 5. Scroll down then press “Generate token”.
-    ![Generate Token](/media/1-generate-token.png)
+    ![Generate Token](images/1-generate-token.png)
 
 6. Finally, a PAT is generated.
-    ![PAT](/media/1-pat.png)
+    ![PAT](images/1-pat.png)
 
 This is the command with the PAT generated above to clone your private repository:
 ```

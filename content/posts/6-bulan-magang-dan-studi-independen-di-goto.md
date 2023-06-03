@@ -2,7 +2,7 @@
 title: "6 Bulan Magang Dan Studi Independen Di Goto"
 date: 2022-08-20
 tags : ["life","internship"]
-social_image: '/media/2-01.png'
+social_image: 'images/2-01.png'
 ---
 
 ## Background
@@ -17,13 +17,12 @@ Pada awal tahun ini, saya mulai belajar banyak hal tentang data sains. Saya meny
 
 Generasi Gigih merupakan program magang dan studi independen dari YABB, yang berinduk dengan GoTo Group. Saya belajar selama enam bulan dimana saya mengenal Analisa Data di Generasi Gigih.
 
-![1](/media/2-01.png)
+![](images/2-01.png)
 
-![2](/media/2-02.png)
+| | | |
+| - | - | - |
+| ![](images/2-03.png) | ![](images/2-02.png) | ![](images/2-04.png) |
 
-![3](/media/2-03.png)
-
-![4](/media/2-04.png)
 
 ## Pengetahuan Teknis untuk Analisa Data
     
@@ -47,9 +46,9 @@ Sisa hari kerja digunakan untuk belajar mengenai pengetahuan non-teknis. Saya be
 
 Tiga bulan telah berlalu, sehingga dua bulan terakhir saya bergabung pada sebuah tim untuk mengerjakan proyek. Selama bekerja bersama, tim saya terdiri atas lima anggota termasuk saya dan satu kakak pembimbing. Beberapa kali pertemuan diadakan, dimana biasanya pertemuan ini diadakan sore hari hingga tengah malam. Semua kami lakukan secara daring karena pandemi yang juga belum mereda. Selain itu, kakak pembimbing kami juga berada di Australia karena sedang studi master di negara tersebut.
 
-![5](/media/2-05.png)
+![](images/2-05.png)
 
-![6](/media/2-06.png)
+![](images/2-06.png)
 
 Bidang pendidikan merupakan bidang kasus yang kami selesaikan, dimana fokus kami adalah menganalisa dampak stress dan kesehatan sosial dari pembelajaran daring siswa selama pandemi. Banyak hambatan yang kami temui dalam proses penyelesaian proyek ini, dimana hambatan tersebut seperti sulitnya untuk menemukan dataset yang sesuai dengan penelitian kami, kemudian membersihkan dataset yang kami gunakan, mengolah dataset, hingga membuat dasbor visualisasi hasil dari apa yang kami temukan pada dataset tersebut.    
     
@@ -61,9 +60,9 @@ Setelah menyelesaikan proyek capstone bersama tim, kami bersiap untuk melakukan 
 
 Enam bulan telah berlalu, saya belajar banyak hal di tempat ini. Saya bertemu dengan banyak teman dari berbagai daerah, dan juga kakak-kakak yang menginspirasi saya. Saya sangat bersyukur mendapatkan kesempatan ini.
 
-![7](/media/2-07.png)
-
-![8](/media/2-08.png)
+| | |
+| - | - |
+| ![7](images/2-07.png) | ![8](images/2-08.png) |
 
 ## Perpisahan
 
