@@ -22,24 +22,24 @@ git clone https://<pat>@github.com/<your account or organization>/<repo>.git
 ```
 To clone a private repository from your account or organization, you need to generate a PAT(Personal Access Token) on your Github account, and add it to the command above. Organization doesn’t have PAT generator. PAT is Personal Access Token.
 
-This is how you generate a PAT on your Github account:
-1. Go to “Settings”.
-    ![Settings](images/1-settings.png)
+#### This is how you generate a PAT on your Github account:
+#### 1. Go to “Settings”.
+![Settings](images/1-settings.png)
 
-2. Scroll down then go to “Developer settings”.
-    ![Developer Settings](images/1-developer-settings.png)
+#### 2. Scroll down then go to “Developer settings”.
+![Developer Settings](images/1-developer-settings.png)
 
-3. Press “Personal access tokens” then press “Generate new token”.
-    ![Generate New Token](images/1-generate-new-token.png)
+#### 3. Press “Personal access tokens” then press “Generate new token”.
+![Generate New Token](images/1-generate-new-token.png)
 
-4. Fill “Note” then check “repo”. "repo" is not checked, you cannot clone a private repository.
-    ![Repo](images/1-repo.png)
+#### 4. Fill “Note” then check “repo”. "repo" is not checked, you cannot clone a private repository.
+![Repo](images/1-repo.png)
 
-5. Scroll down then press “Generate token”.
-    ![Generate Token](images/1-generate-token.png)
+#### 5. Scroll down then press “Generate token”.
+![Generate Token](images/1-generate-token.png)
 
-6. Finally, a PAT is generated.
-    ![PAT](images/1-pat.png)
+#### 6. Finally, a PAT is generated.
+![PAT](images/1-pat.png)
 
 This is the command with the PAT generated above to clone your private repository:
 ```
