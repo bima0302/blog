@@ -6,10 +6,10 @@ tags : ["tutorial","coding"]
 
 Hello everyone!
 
-Today, I will share a step-by-step guide on how to build an application using ReactJS. ReactJS is a popular JavaScript library for building interactive and responsive user interfaces (UIs). Let's get started!
+Today, I will share a step-by-step guide on how to build an application using ReactJS. [ReactJS](https://legacy.reactjs.org/) is a popular JavaScript library for building interactive and responsive user interfaces (UIs). Let's get started!
 
 ## Step 1: Setting Up the Development Environment
-Before we begin, make sure you have Node.js installed on your computer. If you don't have it yet, download and install Node.js from the official Node.js website. Once installed, open the terminal or command prompt and run the command `node -v` to ensure the installation was successful. Next, you need to install Create React App by running the command `npm install -g create-react-app`. This will allow you to easily create ReactJS projects.
+Before we begin, make sure you have Node.js installed on your computer. If you don't have it yet, download and install Node.js from the official [Node.js website](https://nodejs.org/en). Once installed, open the terminal or command prompt and run the command `node -v` to ensure the installation was successful. Next, you need to install Create React App by running the command `npm install -g create-react-app`. This will allow you to easily create ReactJS projects.
 
 ![](images/4-01.png)
 
