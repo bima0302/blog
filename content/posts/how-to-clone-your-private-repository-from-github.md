@@ -5,7 +5,6 @@ tags : ["dev"]
 social_image: 'images/1-github-repository.png'
 ---
 
-## Background
 
 In this blog post, I will show you how to clone a private repository from GitHub using different methods and tools. Whether you are using HTTPS or SSH, command line or GUI, Windows or Linux, you will find a solution that works for you.
 
