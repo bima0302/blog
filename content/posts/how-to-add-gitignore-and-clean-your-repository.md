@@ -1,7 +1,7 @@
 ---
 title: "How to Add Gitignore and Clean Your Repository"
 date: 2022-03-23
-tags : ["tutorial"]
+tags : ["dev"]
 ---
 
 ## Background
