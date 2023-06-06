@@ -1,7 +1,7 @@
 ---
 title: "How to Clone Your Private Repository From Github"
 date: 2023-06-01
-tags : ["tutorial"]
+tags : ["dev"]
 social_image: 'images/1-github-repository.png'
 ---
 
