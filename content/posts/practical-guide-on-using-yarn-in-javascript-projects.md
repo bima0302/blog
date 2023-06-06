@@ -1,7 +1,7 @@
 ---
 title: "Practical Guide on Using Yarn in JavaScript Projects"
 date: 2023-06-04
-tags : ["tutorial","coding"]
+tags : ["dev"]
 ---
 
 Hello everyone!
