@@ -1,7 +1,7 @@
 ---
 title: "6 Bulan Magang Dan Studi Independen Di Goto"
 date: 2022-08-20
-tags : ["life""experience"]
+tags : ["experience"]
 social_image: 'images/2-01.png'
 ---
 
