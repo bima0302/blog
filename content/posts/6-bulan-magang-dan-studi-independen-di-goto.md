@@ -5,7 +5,6 @@ tags : ["experience"]
 social_image: 'images/2-01.png'
 ---
 
-## Background
 
 Postingan ini adalah pengalaman berharga saya selama 6 Bulan Magang dan Studi Independen di GoTo.
 
