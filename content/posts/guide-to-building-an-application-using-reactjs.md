@@ -1,7 +1,7 @@
 ---
 title: "Guide to Building an Application Using ReactJS"
 date: 2023-06-04
-tags : ["tutorial","coding"]
+tags : ["dev"]
 ---
 
 Hello everyone!
