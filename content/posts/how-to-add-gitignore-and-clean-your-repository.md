@@ -4,7 +4,6 @@ date: 2022-03-23
 tags : ["dev"]
 ---
 
-## Background
 
 Git is a tool that helps you manage your code. Sometimes, you have files that you don’t want Git to track or share. For example, files that are temporary, not related to your project, or contain sensitive information.
 
