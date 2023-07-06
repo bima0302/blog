@@ -7,7 +7,7 @@ tags : ["dev"]
 Halo semuanya, hari ini saya akan memberikan penjelasan tentang Async Function.
 
 ## Pengantar:
-JavaScript adalah bahasa pemrograman yang kuat dan serbaguna yang digunakan oleh pengembang web untuk membuat berbagai macam aplikasi interaktif. Dalam beberapa tahun terakhir, JavaScript telah mengalami perkembangan yang signifikan, termasuk pengenalan fitur async function. Async function memungkinkan pengembang untuk menangani operasi asinkron dengan lebih efisien dan mudah dibaca. Dalam artikel ini, kita akan menjelajahi konsep async function, cara menggunakannya, dan manfaatnya dalam pengembangan JavaScript.
+JavaScript adalah bahasa pemrograman yang kuat dan serbaguna yang digunakan oleh pengembang web untuk membuat berbagai macam aplikasi interaktif. Dalam beberapa tahun terakhir, JavaScript telah mengalami perkembangan yang signifikan, termasuk pengenalan fitur async function. [Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) memungkinkan pengembang untuk menangani operasi asinkron dengan lebih efisien dan mudah dibaca. Dalam artikel ini, kita akan menjelajahi konsep async function, cara menggunakannya, dan manfaatnya dalam pengembangan JavaScript.
 
 ### Apa itu Async Function?
 Async function adalah jenis fungsi khusus dalam JavaScript yang memungkinkan eksekusi kode secara asinkron. Async function menggunakan kata kunci "async" sebelum deklarasinya. Ini memberikan kemampuan untuk menggunakan kata kunci "await" di dalam fungsi untuk menunda eksekusi hingga operasi asinkron selesai.
