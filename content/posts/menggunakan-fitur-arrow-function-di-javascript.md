@@ -1,7 +1,7 @@
 ---
 title: "Menggunakan Fitur Arrow Function di JavaScript"
 date: 2023-07-04
-tags : ["dev"]
+tags: ["dev"]
 ---
 
 Halo semuanya, hari ini saya akan memberikan penjelasan tentang arrow function.
@@ -33,7 +33,7 @@ const greet = () => {
 };
 
 // Arrow function dengan satu argumen
-const square = x => x * x;
+const square = (x) => x * x;
 ```
 
 Dalam contoh di atas, Anda dapat melihat bagaimana arrow function digunakan untuk menggantikan fungsi konvensional dengan sintaksis yang lebih ringkas.
