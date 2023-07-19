@@ -6,6 +6,6 @@ profile_image: /media/profile-image.jpeg
 
 # Hi, I'm Bima Setyo
 
-I am a Computer Engineering student at Brawijaya University and I have an interest in Software Engineering and Big Data. My passion includes software development, web development, data visualization, data modeling, data engineering and machine learning.
+I graduated in Computer Engineering from Brawijaya University, and I am passionate about software development. My tech stack includes JavaScript and React. As an aspiring software engineer, I am enthusiastic about software development, mobile development, and web development.
 
-
+Feel free to check out my projects on GitHub: github.com/bzizmza. You can also visit my website at bimasetyo.com.
