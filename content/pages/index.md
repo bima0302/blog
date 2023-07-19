@@ -5,8 +5,6 @@ title: "Home"
 
 # Hello, I'm Bima!
 
-Self-taught frontend developer.
-
-I found all my dreams after completing my first JavaScript project.
+Wannabe software engineer and lately learning the #MERN stack.
 
 [GitHub](https://github.com/bzizmza) [Twitter](https://twitter.com/bzizmza) [LinkedIn](https://linkedin.com/in/abimanyusrisetyo)
