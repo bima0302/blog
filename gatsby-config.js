@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `BimaSetyo.com`,
+    title: `blog.bimasetyo.com`,
     author: {
       name: `Bima Setyo`,
       summary: `Self-taught front-end web developer. I found all my dreams after completing my first JavaScript project.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `Bima Setyo website.`,
-    siteUrl: `https://bimasetyo.com`,
+    description: `Bima's Blog.`,
+    siteUrl: `https://blog.bimasetyo.com`,
     social: {
       twitter: `bzizmza`,
     },
