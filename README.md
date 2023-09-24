@@ -1,5 +1,5 @@
-# Bima Setyo Website
-This page contains source code of the official Bima Setyo website.
+# Bima's Blog Website
+This page contains source code of the official Bima's Blog website.
 
 ## Development
 To run the the website locally, install the required plugins and clone this repository:
