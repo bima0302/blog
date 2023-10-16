@@ -7,4 +7,4 @@ title: "Home"
 
 Wannabe software engineer and lately learning the #MERN stack.
 
-[GitHub](https://github.com/bzizmza) [Twitter](https://twitter.com/bzizmza) [LinkedIn](https://linkedin.com/in/abimanyusrisetyo)
+[GitHub](https://github.com/bima0302) [Twitter](https://twitter.com/bzizmza) [LinkedIn](https://linkedin.com/in/abimanyusrisetyo)
